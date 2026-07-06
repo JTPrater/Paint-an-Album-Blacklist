@@ -1,282 +1,1089 @@
 {
-	["biffy clyro"] = { "the vertigo of bliss" },
-	["nirvana"] = { "nevermind", "in bloom" }, 
-	["death grips"] = { "no love", "deep web" },
-	["kanye west"] = { "beautiful dark twisted fantasy", "twisted fantasy", "i love it", "vultures 1", "vultures", "cold", "the life of pablo", "life of pablo" },
-	["rage against the machine"] = { "rage against the machine" },
-	["the beatles"] = { "yesterday and today" },
-	["guns n' roses"] = { "appetite for destruction" },
-	["red hot chili peppers"] = { "mother's milk" },
-	["the black crowes"] = { "amorica" },
-	["roxy music"] = { "country life" },
-	["prince"] = { "lovesexy" },
-	["jane's addiction"] = { "ritual de lo habitual", "nothing's shocking", "jane's addiction", "kettle whistle" },
-	["john lennon"] = { "two virgins" },
-	["katy perry"] = { "teenage dream" },
-	["blink-182"] = { "enema of the state" },
-	["partynextdoor"] = { "partynextdoor two", "two", "recognize", "make a mil" },
-	["girl in red"] = { "bad idea!" },
-	["full of hell"] = { "rudiments of mutilation" },
-	["lifelover"] = { "pulver" },
-	["jpegmafia"] = { "sin miedo" },
-	["kali uchis"] = { "sin miedo" },
-	["kmfdm"] = { "kunst" },
-	["roger waters"] = { "the pros and cons of hitch hiking" },
-	["phreshboyswag"] = { "p.f.m.b", "tryna go up", "trick or treat", "blank", "mutant zombie massacre" },
-	["xaviersobased"] = { "on ya toe x right time" },
-	["bleood"] = { "dirty coin" },
-	["dawn ray'd"] = { "a thorn, a blight" },
-	["discharge"] = { "why?" },
-	["yokai jaki"] = { "venom" },
-	["stand atlantic"] = { "was here" },
-	["jay reatard"] = { "blood visions" },
-	["symphobia"] = { "hideously traumatic" },
-	["gnawing"] = { "bully breed" },
-	["slayyyter"] = { "no comma", "slayyyter" },
-	["leonard cohen"] = { "new skin for the old ceremony" },
-	["mercury rev"] = { "boces" },
-	["nile"] = { "worship the animal" },
-	["dragged into sunlight"] = { "hatred for mankind" },
-	["in flames"] = { "come clarity" },
-	["200 stab wounds"] = { "slave to the scalpel" },
-	["avenged sevenfold"] = { "beast and the harlot" },
-	["can of bliss"] = { "champion" },
-	["arranged in april"] = { "rooted in desire" },
-	["blind faith"] = { "blind faith" },
-	["extermination dismemberment"] = { "butcher basement" },
-	["kim petras"] = { "problématique", "problematique" },
-	["primal scream"] = { "give out but don’t give up", "give out but dont give up" },
-	["mortal decay"] = { "the blueprint for blood spatter" },
-	["pig destroyer"] = { "terrifyer", "prowler in the yard", "38 counts of battery" },
-	["cerebral incubation"] = { "asphyxiating on excrement", "bifurcation of primordial slamateurs", "fermented cranial inebriating fluids" },
-	["maroon 5"] = { "hands all over" },
-	["bloodhound gang"] = { "hefty fine", "hard-off", "show us your hits", "use your fingers", "the bad touch" },
-	["the paper chase"] = { "now you are one of us" },
-	["peaches"] = { "jonny", "no lube so rude" },
-	["o'donel levy"] = { "everything i do gonna be funky" },
-	["basement jaxx"] = { "remedy" },
-	["fleshwater"] = { "we're not here to be loved" },
-	["aphex twin"] = { "windowlicker" },
-	["swans"] = { "we rose from your bed with the sun in our head", "public castration is a good idea" },
-	["justice"] = { "on'n'on" },
-	["iosys"] = { "東方極楽湯界─イオシス東方コンピレーション vol.24─", "東方ゴールデンタイム ─イオシス東方コンピレーション vol.25─", "東方フリースタイル弾ジョン" },
-	["and one"] = { "so klingt liebe", "so klingt liebe e", "so klingt liebe s", "so klingt liebe x" },
-	["maximum the hormone"] = { "rock-impo goroshi" },
-	["testament"] = { "the gathering" },
-	["type o negative"] = { "slow, deep and hard" },
-	["average white band"] = { "awb" },
-	["sematary"] = { "bloody angel" },
-	["lyrica"] = { "kouhuku chuudoku" },
-	["midori"] = { "あらためまして、はじめまして、ミドリです。" },
-	["ミドリ"] = { "あらためまして、はじめまして、ミドリです。" },
-	["babuchan"] = { "human is corpse", "after death diary / 死後日記" },
-	["rush"] = { "hemispheres", "permanent waves" },
-	["ministry"] = { "dark side of the spoon" },
-	["christian death"] = { "messiah", "catastrophe ballet" },
-	["christan death"] = { "messiah", "catastrophe ballet" },
-	["s3rl"] = { "shoulder boulders" },
-	["kurupt"] = { "down & dirty" },
-	["violent vera"] = { "blood on the sheets", "bl*d on the sheets" },
-	["cardi b"] = { "money" },
-	["a life to suffer"] = { "emptiness", "a wilted heart beneath grey skies", "memories of a painless life", "far away from the happiness" },
-	["courtney love"] = { "miss narcissist" },
-	["morgue"] = { "artgore" },
-	["sinister"] = { "creative killings" },
-	["theatre of tragedy"] = { "velvet darkness they fear" },
-	["tristania"] = { "beyond the veil" },
-	["saidan"] = { "onryō ii: her spirit eternal", "onryo ii: her spirit eternal" },
-	["suicidal angels"] = { "bloodbath", "years of aggression" },
-	["mutilation barbecue"] = { "amalgamations of gore", "mutilation barbecue", "xenomorphic organ rearrangement", "auto anthropophagy" },
-	["nauseating"] = { "stabbed.mutilated.collected", "subjected to rot", "perverted contemplation", "incubation of dismembered bodies" },
-	["party cannon"] = { "injuries are inevitable", "volumes of vomit", "bong hit hospitalization", "subjected to a partying", "weird, but not illegal" },
-	["harmony fault"] = { "rotting flesh good meal", "savage horro dementia", "savage horror dementia", "gore beyond blood" },
-	["necro"] = { "die!", "brutality, pt. 1" },
-	["splattered mermaids"] = { "stench of flesh" },
-	["gorrified"] = { "horrific gore" },
-	["deeds of flesh"] = { "trading pieces" },
-	["dismember"] = { "indecent & obscene" },
-	["david karsten daniels"] = { "sharp teeth" },
-	["family bloodbath"] = { "amputated genitals" },
-	["inked in blood"] = { "obituary" },
-	["lil texas"] = { "faster" },
-	["orteus"] = { "surgery" },
-	["the plot to blow up the eiffel tower"] = { "love in the fascist brothel", "love in the fascist brother" },
-	["masonna"] = { "spectrum ripper" },
-	["pharmakon"] = { "bestial burden" },
-	["les rita mitsouko"] = { "communiqueur d'amour" },
-	["halle uchida"] = { "shounen meguru" },
-	["caro tere"] = { "glycining 2.0" },
-	["dysphagia"] = { "necroverse", "slamphetamines" },
-	["cranial explosion"] = { "luh pooda", "leaky brain seepage", "esophagomyotomy", "nauseating putrefaction", "intervascular evisceration" },
-	["various artists"] = { "10 way split anime brutal" },
-	["iron front"] = { "hooked", "left out to rot", "dissolved in resin" },
-	["nuclear remains"] = { "dawn of eternal suffering", "heinous acts of inquity", "thermobaric asphyxiation", "radioactive decomposition" },
-	["herrementari"] = { "split with bc" },
-	["laceration"] = { "severing the divine inquity" },
-	["undeciphered"] = { "beneath the gentle smile" },
-	["forgotten tomb"] = { "songs to leave" },
-	["suizid"] = { "totenkunst", "wo trauer niemals endet" },
-	["shattered quartz"] = { "the pain of man", "take away the pain" },
-	["autopsy"] = { "severed survival", "ashes, organs, blood and crypts" },
-	["impetigo"] = { "ultimo mondo cannibale" },
-	["the meads of asphodel"] = { "in the name of god, welcome to planet genocide" },
-	["impaled"] = { "the last gasp" },
-	["i'm in a coffin"] = { "one final action" },
-	["im in a coffin"] = { "one final action" },
-	["abnormity"] = { "the visceral sovereign", "the visceral sovreign" },
-	["supplication"] = { "dismembered", "mutilate the masses", "forced decomposition", "where we begin" },
-	["fit for an autopsy"] = { "the sea of tragic beasts" },
-	["killing of a sacred deer"] = { "a visage of a mangled body" },
-	["bullets and octane"] = { "in the mouth of the young" },
-	["dimmu borgir"] = { "in sorte diaboli" },
-	["mudvayne"] = { "l.d. 50", "ld 50" },
-	["lukas graham"] = { "4", "4 (the pink album)" },
-	["blackbear"] = { "digital druglord" },
-	["blackbeard"] = { "digital druglord" },
-	["che"] = { "rest in bass" },
-	["pentagram"] = { "be forewarned", "be foreworned" },
-	["dj technorch"] = { "feeling mega-little good!" },
-	["xenon-p"] = { "enigma -unveiled secret files-", "enigma" },
-	["deadballp"] = { "dead ball project vol. 1", "dead ball project vol. 2", "dead ball project vol. 3", "dead ball project vol. 4", "dead ball project vol. 7", "dead ball project" },
-	["the neighborhood"] = { "love you." },
-	["the neighbourhood"] = { "love you." },
-	["have a nice life"] = { "deathconsciousness" },
-	["eisregen"] = { "leblos" },
-	["utsu-p"] = { "happypills", "renaissance", "unique", "greatest shits" },
-	["鬱p"] = { "happypills", "renaissance", "unique", "greatest shits" },
-	["witchfinder general"] = { "death penalty", "friends of hell" },
-	["lord mantis"] = { "pervertor", "death mask" },
-	["malignancy"] = { "cross species transmutation", "inhuman grotesqueries", "motivated by hunger" },
-	["defeated sanity"] = { "chronicles of lunacy", "chapters of repugnance", "psalms of the moribund", "accelerating the rot", "temporal disintegration", "the odour of sanctity" },
-	["coffins"] = { "mortuary in darkness" },
-	["brujeria"] = { "matando gueros", "mantando gueros" },
-	["indigo de souza"] = { "all of this will end", "any shape you take", "i love my mom", "hold u", "kill me", "you can be mean" },
-	["sugar ray"] = { "lemonade and brownies" },
-	["einstürzende neubauten"] = { "haus der lüge", "haus der luge" },
-	["einstuerzende neubauten"] = { "haus der lüge", "haus der luge" },
-	["last days of humanity"] = { "the sound of rancid juices sloshing around your coffin", "hymns of indigestible suppuration", "in advanced haemorrhaging conditions", "putrefaction in progress" },
-	["disgorge mex"] = { "forensick", "chronic corpora infest", "gore blessed to the worms", "vomica convultions", "old mortuary" },
-	["rotting carcass"] = { "x.t.c of women abuse", "sadomasochistic nightmare" },
-	["mailpup"] = { "kiss me! (feat. pent up pup)", "puppyplay! (feat. femtanyl & sixwing)" },
-	["pent up pup"] = { "furfag", "pent up pup", "knot song" },
-	["alottadogs"] = { "yinzfur (feat. pent up pup)", "rudolph reindeer boy" },
-	["r u s s e l b u c k"] = { "ravepop", "ravepop remixes" },
-	["lymphatic phlegm"] = { "vulgar tissue excavators and morbid organ plastinators (practitioners of purulent excisions)", "roughly excised: putrefindings, morbidescriptions, and necrognoses" },
-	["deterioration"] = { "prepare for the worst", "retaliatory measures", "split w/ putrid stu", "hijack your face", "hyperreality" },
-	["carcass"] = { "wake up and smell the... carcass" },
-	["bodily stew"] = { "bodily stew//drunken master", "cranial decimation (bxs side)", "forensic pathology", "bodily stew//carne podrida", "bodily stew//postmortem human offal", "slice your skull", "embolization of autologous clots", "cranial decimation (remaster)", "podridos, destrozados, y mutilados", "feasting on excrement", "stop saying you twerk to grind 2", "human blister // flakka fool (feat. tonto)", "retching oral purge fluids" },
-	["mxmxm"] = { "ziplock // mxmxm (mxmxm side)", "bodily stew//mxmxm split (mxmxm side)", "mxmxm/hemothorax split", "mxmxmx/larval therapy (mxmxm side)", "mxmxmx/tripas sangretas/carne podrida - 3-way mincegore assault (mxmxmx side)" },
-	["brainspit"] = { "brainspit & mxmxm" },
-	["casket mush"] = { "a hot mess of radioactive decay", "the pungent stench of rott and infectous subjection", "ruptured through the depths of human remains" },
-	["sulfuric cautery"] = { "subsequent torture sessions 2019-2021", "consummate extirpation", "killing spree", "raw gore massacre (meatus split)", "(human) meat processing", "three years of torture", "chemical sadism", "tolerance split" },
-	["festerdecay"] = { "aborticide", "rotten fester decay", "exposing the skin tissue", "carcasses revenge", "festerdecay demo", "reality rotten to the core", "from demo to rot" },
-	["pharmacist"] = { "vertebrae after vertebrae", "medical renditions of grinding decomposition", "flourishing extremities on unspoiled mental grounds", "feeling young", "thanatological reflections on neuroticism" },
-	["pathologist"] = { "putrefactive and cadaverous odes about neuroticism", "grinding opus of forensic medical problems", "grinding opus of forensic medical problems (corrected speed master)", "putrefactive and cadaverous odes about neuroticism (corrected speed master)" },
-	["golem of gore"] = { "horrendous summoning of gore (demo)", "the stench of organs and purulence rapidly decomposing", "obsessive murderous manias", "l’isola maledetta - immersed in a formaldehyde coffin", "chronic obstructive caustic vomit" },
-	["hyperemesis"] = { "archagathus split official", "agathocles split official", "dope resin split official" },
-	["fetal deformity"] = { "chronic ulcerative colitis / full adipocere process on bloated corpse" },
-	["jig-ai"] = { "entrails tsunami", "katana orgy", "jig-ai" },
-	["leucotome"] = { "lumped cuts of offal" },
-	["lipoma"] = { "odes to suffering", "horrors of pathology", "split with infester", "studies in clinical anatomy", "rotten bloody bowels of eternal disease", "trisectio cadaveris", "the head split", "cigarette causes neck cancer", "the art of surgery", "dissertations" },
-	["torture pig"] = { "foul glands of pestilence" },
-	["fluids"] = { "exploitative practices", "ignorance exalted", "not dark yet", "american piquerist xxx", "feeling young", "piled iv: the extended pile", "spored & gored", "taking care of business is our business... and business is good", "smile and the world smiles with you" },
-	["putrid stu"] = { "buried alive in a trailer park", "split with deterioration", "documentaries of necrophagia", "fallopian tomb", "amidst an anal-analgesic assembly" }
-  ["party cannon"] = { "thirst trap", "perverse party platter", "bong hit hospitalisation" },
-	["weekend nachos"] = { "unforgivable" },
-	["brujeria"] = { "matando" },
-	["lil ugly mane"] = { "playaz circle" },
-	["cerrone"] = { "paradise", "cerrone vi", "panic" },
-	["death grips"] = { "money store" },
-	["utsu-p"] = { "vulgar" },
-	["鬱p"] = { "vulgar" },
-	["suicidal tendencies"] = { "prime cuts" },
-	["facelift deformation"] = { "path to retribution" },
-	["amity affliction"] = { "chasing ghosts" },
-	["editors"] = { "violence" },
-	["beyonc"] = { "renaissance" },
-	["doja cat"] = { "attention", "hot pink" },
-	["rosal"] = { "motomami" },
-	["lady gaga"] = { "artpop" },
-	["selena gomez"] = { "hands to myself" },
-	["poppy"] = { "stagger", "negative spaces", "empty hands" },
-	["pulp"] = { "this is hardcore" },
-	["la femme"] = { "psycho tropical berlin" },
-	["bat for lashes"] = { "the haunted man" },
-	["daniel lanois"] = { "for the beauty of wynona" },
-	["wolf alice"] = { "blush" },
-	["bad omens"] = { "the death of peace of mind" },
-	["trisha paytas"] = { "rebirth" },
-	["sycamour"] = { "substance abuse" },
-	["dreamcache"] = { "laptop" },
-	["eternal champion"] = { "ravening iron" },
-	["throbbing gristle"] = { "the taste of tg" },
-	["demilich"] = { "nespithe" },
-	["celtic frost"] = { "emperor's return", "i won't dance" },
-	["gia woods"] = { "pch", "next girlfriend", "your engine", "lesbionic", "heartbreak radio", "new girlfriend" },
-	["zheani"] = { "napalm", "designer sadness", "lie and look", "eight", "the line" },
-	["paleface swiss"] = { "chapter 3", "the last selection", "chapter 2", "witch king" },
-	["ann magnuson"] = { "the luv show" },
-	["my minds mine"] = { "between soothing consolation" },
-	["lady killer"] = { "killer" },
-	["virgin killer"] = { "killer", "333" },
-	["the partisan turbine"] = { "surgical assault" },
-	["in gloom"] = { "gloomhammer", "captive bolt pistol" },
-	["spite"] = { "new world killer" },
-	["abscess"] = { "urine junkies" },
-	["first degree murder"] = { "guttural disgorge", "inhumane perversion" },
-	["burial"] = { "mourning the millennium", "divinity through eradication" },
-	["dredge"] = { "tribulations of existence" },
-	["chopper"] = { "violation zone", "the demonstration" },
-	["esophagus"] = { "inglorious beings" },
-	["go-zen"] = { "hitoshizuku" },
-	["depravity"] = { "bestial possession" },
-	["metro zu"] = { "zuology" },
-	["atoll"] = { "bikini atoll", "fallout frenzy", "overgorged", "skinwalker", "zoopocalypse", "circumcisor", "cirrhosis for dinner", "prepuce", "berdella of blood", "autosarcophagy", "inhuman implants" },
-	["femtanyl"] = { "girl hell 1999", "head up", "im gone", "i'm gone", "world wide", "love sick cannibal", "murder every 1 u know", "push ur temper", "i might be sick", "p3t", "chaser" },
-	["sink saiko"] = { "selfharm" },
-	["flavor foley"] = { "cardiac contrepoint", "cardiac counterpoint" },
-	["nine vicious"] = { "for nothing" },
-	["m1dy"] = { "speedcore dandy xxx" },
-	["harley poe"] = { "have a great life" },
-	["steel panther"] = { "balls out" },
-	["vylet pony"] = { "monarch of monsters" },
-	["rihanna"] = { "unapologetic" },
-	["bauhaus"] = { "in the flat field" },
-	["cigarettes after sex"] = { "twizzler" },
-	["night lovell"] = { "i heard you were looking for me" },
-	["ohio players"] = { "honey" },
-	["Кино"] = { "Это не любовь" },
-	["kino"] = { "это не любовь", "Это не любовь" },
-	["whirr"] = { "distressor" },
-	["rebecca black"] = { "salvation" },
-	["the pretty reckless"] = { "going to hell" },
-	["rare americans"] = { "human animal" },
-	["charli xcx"] = { "guess" },
-	["lindemann"] = { "zunge" },
-	["wendy james"] = { "price of the ticket" },
-	["banished"] = { "deliver me unto pain" },
-	["gnaw their tongues"] = { "eschatological scatology" },
-	["lah pat"] = { "rodeo" },
-	["hymenoptera"] = { "dark knights mace" },
-	["boris"] = { "feedbacker" },
-	["serebro"] = { "mama lover", "Отпусти меня", "отпусти меня", "Мало тебя", "мало тебя" },
-	["joan as police woman"] = { "cover" },
-	["hareton salvanini"] = { "xavana" },
-	["placebo"] = { "sleeping with ghosts", "meds" },
-	["sevdaliza"] = { "children of silk" },
-	["a winged victory for the sullen"] = { "a winged victory for the sullen" },
-	["entrails"] = { "tales from the morgue", "death is the right path" },
-	["titanosauria"] = { "raptoricide" },
-	["bloat"] = { "combusted clumps" },
-	["orbital gate"] = { "demonstration of post apocalyptic warfare" },
-	["mortal wound"] = { "gutless" },
-	["pighead"] = { "until all flesh decays", "relapse into absurdity" },
-	["gwar"] = { "stripper christmas summer weekend" },
-	["govanni"] = { "congested" },
-	["lil shine"] = { "tell me", "won't stop", "wont stop", "snow keep fallin", "by myself", "loose ends" },
-	["slippymudman"] = { "things we found on the dark web" },
-	["vampyx"] = { "razor cutz" },
-	["hanzel und gretyl"] = { "zwanzig zwolf", "born to be heiled", "fur immer", "für immer", "satanik germanik", "hexxenacht" },
-	["john lennon"] = { "some time in new york city", "sometime in new york city" },
-	["pharmakon"] = { "abandon" },
+  "biffy clyro": [
+    "the vertigo of bliss"
+  ],
+  "nirvana": [
+    "nevermind",
+    "in bloom"
+  ],
+  "death grips": [
+    "no love",
+    "deep web",
+    "money store"
+  ],
+  "kanye west": [
+    "beautiful dark twisted fantasy",
+    "twisted fantasy",
+    "i love it",
+    "vultures 1",
+    "vultures",
+    "cold",
+    "the life of pablo",
+    "life of pablo"
+  ],
+  "rage against the machine": [
+    "rage against the machine"
+  ],
+  "the beatles": [
+    "yesterday and today"
+  ],
+  "guns n' roses": [
+    "appetite for destruction"
+  ],
+  "red hot chili peppers": [
+    "mother's milk"
+  ],
+  "the black crowes": [
+    "amorica"
+  ],
+  "roxy music": [
+    "country life"
+  ],
+  "prince": [
+    "lovesexy"
+  ],
+  "jane's addiction": [
+    "ritual de lo habitual",
+    "nothing's shocking",
+    "jane's addiction",
+    "kettle whistle"
+  ],
+  "john lennon": [
+    "two virgins",
+    "some time in new york city",
+    "sometime in new york city"
+  ],
+  "katy perry": [
+    "teenage dream"
+  ],
+  "blink-182": [
+    "enema of the state"
+  ],
+  "partynextdoor": [
+    "partynextdoor two",
+    "two",
+    "recognize",
+    "make a mil"
+  ],
+  "girl in red": [
+    "bad idea!"
+  ],
+  "full of hell": [
+    "rudiments of mutilation"
+  ],
+  "lifelover": [
+    "pulver"
+  ],
+  "jpegmafia": [
+    "sin miedo"
+  ],
+  "kali uchis": [
+    "sin miedo"
+  ],
+  "kmfdm": [
+    "kunst"
+  ],
+  "roger waters": [
+    "the pros and cons of hitch hiking"
+  ],
+  "phreshboyswag": [
+    "p.f.m.b",
+    "tryna go up",
+    "trick or treat",
+    "blank",
+    "mutant zombie massacre"
+  ],
+  "xaviersobased": [
+    "on ya toe x right time"
+  ],
+  "bleood": [
+    "dirty coin"
+  ],
+  "dawn ray'd": [
+    "a thorn, a blight"
+  ],
+  "discharge": [
+    "why?"
+  ],
+  "yokai jaki": [
+    "venom"
+  ],
+  "stand atlantic": [
+    "was here"
+  ],
+  "jay reatard": [
+    "blood visions"
+  ],
+  "symphobia": [
+    "hideously traumatic"
+  ],
+  "gnawing": [
+    "bully breed"
+  ],
+  "slayyyter": [
+    "no comma",
+    "slayyyter"
+  ],
+  "leonard cohen": [
+    "new skin for the old ceremony"
+  ],
+  "mercury rev": [
+    "boces"
+  ],
+  "nile": [
+    "worship the animal"
+  ],
+  "dragged into sunlight": [
+    "hatred for mankind"
+  ],
+  "in flames": [
+    "come clarity"
+  ],
+  "200 stab wounds": [
+    "slave to the scalpel"
+  ],
+  "avenged sevenfold": [
+    "beast and the harlot"
+  ],
+  "can of bliss": [
+    "champion"
+  ],
+  "arranged in april": [
+    "rooted in desire"
+  ],
+  "blind faith": [
+    "blind faith"
+  ],
+  "extermination dismemberment": [
+    "butcher basement"
+  ],
+  "kim petras": [
+    "problématique",
+    "problematique"
+  ],
+  "primal scream": [
+    "give out but don’t give up",
+    "give out but dont give up"
+  ],
+  "mortal decay": [
+    "the blueprint for blood spatter"
+  ],
+  "pig destroyer": [
+    "terrifyer",
+    "prowler in the yard",
+    "38 counts of battery"
+  ],
+  "cerebral incubation": [
+    "asphyxiating on excrement",
+    "bifurcation of primordial slamateurs",
+    "fermented cranial inebriating fluids"
+  ],
+  "maroon 5": [
+    "hands all over"
+  ],
+  "bloodhound gang": [
+    "hefty fine",
+    "hard-off",
+    "show us your hits",
+    "use your fingers",
+    "the bad touch"
+  ],
+  "the paper chase": [
+    "now you are one of us"
+  ],
+  "peaches": [
+    "jonny",
+    "no lube so rude"
+  ],
+  "o'donel levy": [
+    "everything i do gonna be funky"
+  ],
+  "basement jaxx": [
+    "remedy"
+  ],
+  "fleshwater": [
+    "we're not here to be loved"
+  ],
+  "aphex twin": [
+    "windowlicker"
+  ],
+  "swans": [
+    "we rose from your bed with the sun in our head",
+    "public castration is a good idea"
+  ],
+  "justice": [
+    "on'n'on"
+  ],
+  "iosys": [
+    "東方極楽湯界─イオシス東方コンピレーション vol.24─",
+    "東方ゴールデンタイム ─イオシス東方コンピレーション vol.25─",
+    "東方フリースタイル弾ジョン"
+  ],
+  "and one": [
+    "so klingt liebe",
+    "so klingt liebe e",
+    "so klingt liebe s",
+    "so klingt liebe x"
+  ],
+  "maximum the hormone": [
+    "rock-impo goroshi"
+  ],
+  "testament": [
+    "the gathering"
+  ],
+  "type o negative": [
+    "slow, deep and hard"
+  ],
+  "average white band": [
+    "awb"
+  ],
+  "sematary": [
+    "bloody angel"
+  ],
+  "lyrica": [
+    "kouhuku chuudoku"
+  ],
+  "midori": [
+    "あらためまして、はじめまして、ミドリです。"
+  ],
+  "ミドリ": [
+    "あらためまして、はじめまして、ミドリです。"
+  ],
+  "babuchan": [
+    "human is corpse",
+    "after death diary / 死後日記"
+  ],
+  "rush": [
+    "hemispheres",
+    "permanent waves"
+  ],
+  "ministry": [
+    "dark side of the spoon"
+  ],
+  "christian death": [
+    "messiah",
+    "catastrophe ballet"
+  ],
+  "christan death": [
+    "messiah",
+    "catastrophe ballet"
+  ],
+  "s3rl": [
+    "shoulder boulders"
+  ],
+  "kurupt": [
+    "down & dirty"
+  ],
+  "violent vera": [
+    "blood on the sheets",
+    "bl*d on the sheets"
+  ],
+  "cardi b": [
+    "money"
+  ],
+  "a life to suffer": [
+    "emptiness",
+    "a wilted heart beneath grey skies",
+    "memories of a painless life",
+    "far away from the happiness"
+  ],
+  "courtney love": [
+    "miss narcissist"
+  ],
+  "morgue": [
+    "artgore"
+  ],
+  "sinister": [
+    "creative killings"
+  ],
+  "theatre of tragedy": [
+    "velvet darkness they fear"
+  ],
+  "tristania": [
+    "beyond the veil"
+  ],
+  "saidan": [
+    "onryō ii: her spirit eternal",
+    "onryo ii: her spirit eternal"
+  ],
+  "suicidal angels": [
+    "bloodbath",
+    "years of aggression"
+  ],
+  "mutilation barbecue": [
+    "amalgamations of gore",
+    "mutilation barbecue",
+    "xenomorphic organ rearrangement",
+    "auto anthropophagy"
+  ],
+  "nauseating": [
+    "stabbed.mutilated.collected",
+    "subjected to rot",
+    "perverted contemplation",
+    "incubation of dismembered bodies"
+  ],
+  "party cannon": [
+    "injuries are inevitable",
+    "volumes of vomit",
+    "bong hit hospitalization",
+    "subjected to a partying",
+    "weird, but not illegal",
+    "thirst trap",
+    "perverse party platter",
+    "bong hit hospitalisation"
+  ],
+  "harmony fault": [
+    "rotting flesh good meal",
+    "savage horro dementia",
+    "savage horror dementia",
+    "gore beyond blood"
+  ],
+  "necro": [
+    "die!",
+    "brutality, pt. 1"
+  ],
+  "splattered mermaids": [
+    "stench of flesh"
+  ],
+  "gorrified": [
+    "horrific gore"
+  ],
+  "deeds of flesh": [
+    "trading pieces"
+  ],
+  "dismember": [
+    "indecent & obscene"
+  ],
+  "david karsten daniels": [
+    "sharp teeth"
+  ],
+  "family bloodbath": [
+    "amputated genitals"
+  ],
+  "inked in blood": [
+    "obituary"
+  ],
+  "lil texas": [
+    "faster"
+  ],
+  "orteus": [
+    "surgery"
+  ],
+  "the plot to blow up the eiffel tower": [
+    "love in the fascist brothel",
+    "love in the fascist brother"
+  ],
+  "masonna": [
+    "spectrum ripper"
+  ],
+  "pharmakon": [
+    "bestial burden",
+    "abandon"
+  ],
+  "les rita mitsouko": [
+    "communiqueur d'amour"
+  ],
+  "halle uchida": [
+    "shounen meguru"
+  ],
+  "caro tere": [
+    "glycining 2.0"
+  ],
+  "dysphagia": [
+    "necroverse",
+    "slamphetamines"
+  ],
+  "cranial explosion": [
+    "luh pooda",
+    "leaky brain seepage",
+    "esophagomyotomy",
+    "nauseating putrefaction",
+    "intervascular evisceration"
+  ],
+  "various artists": [
+    "10 way split anime brutal"
+  ],
+  "iron front": [
+    "hooked",
+    "left out to rot",
+    "dissolved in resin"
+  ],
+  "nuclear remains": [
+    "dawn of eternal suffering",
+    "heinous acts of inquity",
+    "thermobaric asphyxiation",
+    "radioactive decomposition"
+  ],
+  "herrementari": [
+    "split with bc"
+  ],
+  "laceration": [
+    "severing the divine inquity"
+  ],
+  "undeciphered": [
+    "beneath the gentle smile"
+  ],
+  "forgotten tomb": [
+    "songs to leave"
+  ],
+  "suizid": [
+    "totenkunst",
+    "wo trauer niemals endet"
+  ],
+  "shattered quartz": [
+    "the pain of man",
+    "take away the pain"
+  ],
+  "autopsy": [
+    "severed survival",
+    "ashes, organs, blood and crypts"
+  ],
+  "impetigo": [
+    "ultimo mondo cannibale"
+  ],
+  "the meads of asphodel": [
+    "in the name of god, welcome to planet genocide"
+  ],
+  "impaled": [
+    "the last gasp"
+  ],
+  "i'm in a coffin": [
+    "one final action"
+  ],
+  "im in a coffin": [
+    "one final action"
+  ],
+  "abnormity": [
+    "the visceral sovereign",
+    "the visceral sovreign"
+  ],
+  "supplication": [
+    "dismembered",
+    "mutilate the masses",
+    "forced decomposition",
+    "where we begin"
+  ],
+  "fit for an autopsy": [
+    "the sea of tragic beasts"
+  ],
+  "killing of a sacred deer": [
+    "a visage of a mangled body"
+  ],
+  "bullets and octane": [
+    "in the mouth of the young"
+  ],
+  "dimmu borgir": [
+    "in sorte diaboli"
+  ],
+  "mudvayne": [
+    "l.d. 50",
+    "ld 50"
+  ],
+  "lukas graham": [
+    "4",
+    "4 (the pink album)"
+  ],
+  "blackbear": [
+    "digital druglord"
+  ],
+  "blackbeard": [
+    "digital druglord"
+  ],
+  "che": [
+    "rest in bass"
+  ],
+  "pentagram": [
+    "be forewarned",
+    "be foreworned"
+  ],
+  "dj technorch": [
+    "feeling mega-little good!"
+  ],
+  "xenon-p": [
+    "enigma -unveiled secret files-",
+    "enigma"
+  ],
+  "deadballp": [
+    "dead ball project vol. 1",
+    "dead ball project vol. 2",
+    "dead ball project vol. 3",
+    "dead ball project vol. 4",
+    "dead ball project vol. 7",
+    "dead ball project"
+  ],
+  "the neighborhood": [
+    "love you."
+  ],
+  "the neighbourhood": [
+    "love you."
+  ],
+  "have a nice life": [
+    "deathconsciousness"
+  ],
+  "eisregen": [
+    "leblos"
+  ],
+  "utsu-p": [
+    "happypills",
+    "renaissance",
+    "unique",
+    "greatest shits",
+    "vulgar"
+  ],
+  "鬱p": [
+    "happypills",
+    "renaissance",
+    "unique",
+    "greatest shits",
+    "vulgar"
+  ],
+  "witchfinder general": [
+    "death penalty",
+    "friends of hell"
+  ],
+  "lord mantis": [
+    "pervertor",
+    "death mask"
+  ],
+  "malignancy": [
+    "cross species transmutation",
+    "inhuman grotesqueries",
+    "motivated by hunger"
+  ],
+  "defeated sanity": [
+    "chronicles of lunacy",
+    "chapters of repugnance",
+    "psalms of the moribund",
+    "accelerating the rot",
+    "temporal disintegration",
+    "the odour of sanctity"
+  ],
+  "coffins": [
+    "mortuary in darkness"
+  ],
+  "brujeria": [
+    "matando gueros",
+    "mantando gueros",
+    "matando"
+  ],
+  "indigo de souza": [
+    "all of this will end",
+    "any shape you take",
+    "i love my mom",
+    "hold u",
+    "kill me",
+    "you can be mean"
+  ],
+  "sugar ray": [
+    "lemonade and brownies"
+  ],
+  "einstürzende neubauten": [
+    "haus der lüge",
+    "haus der luge"
+  ],
+  "einstuerzende neubauten": [
+    "haus der lüge",
+    "haus der luge"
+  ],
+  "last days of humanity": [
+    "the sound of rancid juices sloshing around your coffin",
+    "hymns of indigestible suppuration",
+    "in advanced haemorrhaging conditions",
+    "putrefaction in progress"
+  ],
+  "disgorge mex": [
+    "forensick",
+    "chronic corpora infest",
+    "gore blessed to the worms",
+    "vomica convultions",
+    "old mortuary"
+  ],
+  "rotting carcass": [
+    "x.t.c of women abuse",
+    "sadomasochistic nightmare"
+  ],
+  "mailpup": [
+    "kiss me! (feat. pent up pup)",
+    "puppyplay! (feat. femtanyl & sixwing)"
+  ],
+  "pent up pup": [
+    "furfag",
+    "pent up pup",
+    "knot song"
+  ],
+  "alottadogs": [
+    "yinzfur (feat. pent up pup)",
+    "rudolph reindeer boy"
+  ],
+  "r u s s e l b u c k": [
+    "ravepop",
+    "ravepop remixes"
+  ],
+  "lymphatic phlegm": [
+    "vulgar tissue excavators and morbid organ plastinators (practitioners of purulent excisions)",
+    "roughly excised: putrefindings, morbidescriptions, and necrognoses"
+  ],
+  "deterioration": [
+    "prepare for the worst",
+    "retaliatory measures",
+    "split w/ putrid stu",
+    "hijack your face",
+    "hyperreality"
+  ],
+  "carcass": [
+    "wake up and smell the... carcass"
+  ],
+  "bodily stew": [
+    "bodily stew//drunken master",
+    "cranial decimation (bxs side)",
+    "forensic pathology",
+    "bodily stew//carne podrida",
+    "bodily stew//postmortem human offal",
+    "slice your skull",
+    "embolization of autologous clots",
+    "cranial decimation (remaster)",
+    "podridos, destrozados, y mutilados",
+    "feasting on excrement",
+    "stop saying you twerk to grind 2",
+    "human blister // flakka fool (feat. tonto)",
+    "retching oral purge fluids"
+  ],
+  "mxmxm": [
+    "ziplock // mxmxm (mxmxm side)",
+    "bodily stew//mxmxm split (mxmxm side)",
+    "mxmxm/hemothorax split",
+    "mxmxmx/larval therapy (mxmxm side)",
+    "mxmxmx/tripas sangretas/carne podrida - 3-way mincegore assault (mxmxmx side)"
+  ],
+  "brainspit": [
+    "brainspit & mxmxm"
+  ],
+  "casket mush": [
+    "a hot mess of radioactive decay",
+    "the pungent stench of rott and infectous subjection",
+    "ruptured through the depths of human remains"
+  ],
+  "sulfuric cautery": [
+    "subsequent torture sessions 2019-2021",
+    "consummate extirpation",
+    "killing spree",
+    "raw gore massacre (meatus split)",
+    "(human) meat processing",
+    "three years of torture",
+    "chemical sadism",
+    "tolerance split"
+  ],
+  "festerdecay": [
+    "aborticide",
+    "rotten fester decay",
+    "exposing the skin tissue",
+    "carcasses revenge",
+    "festerdecay demo",
+    "reality rotten to the core",
+    "from demo to rot"
+  ],
+  "pharmacist": [
+    "vertebrae after vertebrae",
+    "medical renditions of grinding decomposition",
+    "flourishing extremities on unspoiled mental grounds",
+    "feeling young",
+    "thanatological reflections on neuroticism"
+  ],
+  "pathologist": [
+    "putrefactive and cadaverous odes about neuroticism",
+    "grinding opus of forensic medical problems",
+    "grinding opus of forensic medical problems (corrected speed master)",
+    "putrefactive and cadaverous odes about neuroticism (corrected speed master)"
+  ],
+  "golem of gore": [
+    "horrendous summoning of gore (demo)",
+    "the stench of organs and purulence rapidly decomposing",
+    "obsessive murderous manias",
+    "l’isola maledetta - immersed in a formaldehyde coffin",
+    "chronic obstructive caustic vomit"
+  ],
+  "hyperemesis": [
+    "archagathus split official",
+    "agathocles split official",
+    "dope resin split official"
+  ],
+  "fetal deformity": [
+    "chronic ulcerative colitis / full adipocere process on bloated corpse"
+  ],
+  "jig-ai": [
+    "entrails tsunami",
+    "katana orgy",
+    "jig-ai"
+  ],
+  "leucotome": [
+    "lumped cuts of offal"
+  ],
+  "lipoma": [
+    "odes to suffering",
+    "horrors of pathology",
+    "split with infester",
+    "studies in clinical anatomy",
+    "rotten bloody bowels of eternal disease",
+    "trisectio cadaveris",
+    "the head split",
+    "cigarette causes neck cancer",
+    "the art of surgery",
+    "dissertations"
+  ],
+  "torture pig": [
+    "foul glands of pestilence"
+  ],
+  "fluids": [
+    "exploitative practices",
+    "ignorance exalted",
+    "not dark yet",
+    "american piquerist xxx",
+    "feeling young",
+    "piled iv: the extended pile",
+    "spored & gored",
+    "taking care of business is our business... and business is good",
+    "smile and the world smiles with you"
+  ],
+  "putrid stu": [
+    "buried alive in a trailer park",
+    "split with deterioration",
+    "documentaries of necrophagia",
+    "fallopian tomb",
+    "amidst an anal-analgesic assembly"
+  ],
+  "weekend nachos": [
+    "unforgivable"
+  ],
+  "lil ugly mane": [
+    "playaz circle"
+  ],
+  "cerrone": [
+    "paradise",
+    "cerrone vi",
+    "panic"
+  ],
+  "suicidal tendencies": [
+    "prime cuts"
+  ],
+  "facelift deformation": [
+    "path to retribution"
+  ],
+  "amity affliction": [
+    "chasing ghosts"
+  ],
+  "editors": [
+    "violence"
+  ],
+  "beyonc": [
+    "renaissance"
+  ],
+  "doja cat": [
+    "attention",
+    "hot pink"
+  ],
+  "rosal": [
+    "motomami"
+  ],
+  "lady gaga": [
+    "artpop"
+  ],
+  "selena gomez": [
+    "hands to myself"
+  ],
+  "poppy": [
+    "stagger",
+    "negative spaces",
+    "empty hands"
+  ],
+  "pulp": [
+    "this is hardcore"
+  ],
+  "la femme": [
+    "psycho tropical berlin"
+  ],
+  "bat for lashes": [
+    "the haunted man"
+  ],
+  "daniel lanois": [
+    "for the beauty of wynona"
+  ],
+  "wolf alice": [
+    "blush"
+  ],
+  "bad omens": [
+    "the death of peace of mind"
+  ],
+  "trisha paytas": [
+    "rebirth"
+  ],
+  "sycamour": [
+    "substance abuse"
+  ],
+  "dreamcache": [
+    "laptop"
+  ],
+  "eternal champion": [
+    "ravening iron"
+  ],
+  "throbbing gristle": [
+    "the taste of tg"
+  ],
+  "demilich": [
+    "nespithe"
+  ],
+  "celtic frost": [
+    "emperor's return",
+    "i won't dance"
+  ],
+  "gia woods": [
+    "pch",
+    "next girlfriend",
+    "your engine",
+    "lesbionic",
+    "heartbreak radio",
+    "new girlfriend"
+  ],
+  "zheani": [
+    "napalm",
+    "designer sadness",
+    "lie and look",
+    "eight",
+    "the line"
+  ],
+  "paleface swiss": [
+    "chapter 3",
+    "the last selection",
+    "chapter 2",
+    "witch king"
+  ],
+  "ann magnuson": [
+    "the luv show"
+  ],
+  "my minds mine": [
+    "between soothing consolation"
+  ],
+  "lady killer": [
+    "killer"
+  ],
+  "virgin killer": [
+    "killer",
+    "333"
+  ],
+  "the partisan turbine": [
+    "surgical assault"
+  ],
+  "in gloom": [
+    "gloomhammer",
+    "captive bolt pistol"
+  ],
+  "spite": [
+    "new world killer"
+  ],
+  "abscess": [
+    "urine junkies"
+  ],
+  "first degree murder": [
+    "guttural disgorge",
+    "inhumane perversion"
+  ],
+  "burial": [
+    "mourning the millennium",
+    "divinity through eradication"
+  ],
+  "dredge": [
+    "tribulations of existence"
+  ],
+  "chopper": [
+    "violation zone",
+    "the demonstration"
+  ],
+  "esophagus": [
+    "inglorious beings"
+  ],
+  "go-zen": [
+    "hitoshizuku"
+  ],
+  "depravity": [
+    "bestial possession"
+  ],
+  "metro zu": [
+    "zuology"
+  ],
+  "atoll": [
+    "bikini atoll",
+    "fallout frenzy",
+    "overgorged",
+    "skinwalker",
+    "zoopocalypse",
+    "circumcisor",
+    "cirrhosis for dinner",
+    "prepuce",
+    "berdella of blood",
+    "autosarcophagy",
+    "inhuman implants"
+  ],
+  "femtanyl": [
+    "girl hell 1999",
+    "head up",
+    "im gone",
+    "i'm gone",
+    "world wide",
+    "love sick cannibal",
+    "murder every 1 u know",
+    "push ur temper",
+    "i might be sick",
+    "p3t",
+    "chaser"
+  ],
+  "sink saiko": [
+    "selfharm"
+  ],
+  "flavor foley": [
+    "cardiac contrepoint",
+    "cardiac counterpoint"
+  ],
+  "nine vicious": [
+    "for nothing"
+  ],
+  "m1dy": [
+    "speedcore dandy xxx"
+  ],
+  "harley poe": [
+    "have a great life"
+  ],
+  "steel panther": [
+    "balls out"
+  ],
+  "vylet pony": [
+    "monarch of monsters"
+  ],
+  "rihanna": [
+    "unapologetic"
+  ],
+  "bauhaus": [
+    "in the flat field"
+  ],
+  "cigarettes after sex": [
+    "twizzler"
+  ],
+  "night lovell": [
+    "i heard you were looking for me"
+  ],
+  "ohio players": [
+    "honey"
+  ],
+  "Кино": [
+    "Это не любовь"
+  ],
+  "kino": [
+    "это не любовь",
+    "Это не любовь"
+  ],
+  "whirr": [
+    "distressor"
+  ],
+  "rebecca black": [
+    "salvation"
+  ],
+  "the pretty reckless": [
+    "going to hell"
+  ],
+  "rare americans": [
+    "human animal"
+  ],
+  "charli xcx": [
+    "guess"
+  ],
+  "lindemann": [
+    "zunge"
+  ],
+  "wendy james": [
+    "price of the ticket"
+  ],
+  "banished": [
+    "deliver me unto pain"
+  ],
+  "gnaw their tongues": [
+    "eschatological scatology"
+  ],
+  "lah pat": [
+    "rodeo"
+  ],
+  "hymenoptera": [
+    "dark knights mace"
+  ],
+  "boris": [
+    "feedbacker"
+  ],
+  "serebro": [
+    "mama lover",
+    "Отпусти меня",
+    "отпусти меня",
+    "Мало тебя",
+    "мало тебя"
+  ],
+  "joan as police woman": [
+    "cover"
+  ],
+  "hareton salvanini": [
+    "xavana"
+  ],
+  "placebo": [
+    "sleeping with ghosts",
+    "meds"
+  ],
+  "sevdaliza": [
+    "children of silk"
+  ],
+  "a winged victory for the sullen": [
+    "a winged victory for the sullen"
+  ],
+  "entrails": [
+    "tales from the morgue",
+    "death is the right path"
+  ],
+  "titanosauria": [
+    "raptoricide"
+  ],
+  "bloat": [
+    "combusted clumps"
+  ],
+  "orbital gate": [
+    "demonstration of post apocalyptic warfare"
+  ],
+  "mortal wound": [
+    "gutless"
+  ],
+  "pighead": [
+    "until all flesh decays",
+    "relapse into absurdity"
+  ],
+  "gwar": [
+    "stripper christmas summer weekend"
+  ],
+  "govanni": [
+    "congested"
+  ],
+  "lil shine": [
+    "tell me",
+    "won't stop",
+    "wont stop",
+    "snow keep fallin",
+    "by myself",
+    "loose ends"
+  ],
+  "slippymudman": [
+    "things we found on the dark web"
+  ],
+  "vampyx": [
+    "razor cutz"
+  ],
+  "hanzel und gretyl": [
+    "zwanzig zwolf",
+    "born to be heiled",
+    "fur immer",
+    "für immer",
+    "satanik germanik",
+    "hexxenacht"
+  ]
 }
