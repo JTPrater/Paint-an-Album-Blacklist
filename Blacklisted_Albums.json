@@ -1,5 +1,5 @@
 {
-	["biffy clyro"] : { "the vertigo of bliss" },
+	["biffy clyro"] = { "the vertigo of bliss" },
 	["nirvana"] = { "nevermind", "in bloom" }, 
 	["death grips"] = { "no love", "deep web" },
 	["kanye west"] = { "beautiful dark twisted fantasy", "twisted fantasy", "i love it", "vultures 1", "vultures", "cold", "the life of pablo", "life of pablo" },
